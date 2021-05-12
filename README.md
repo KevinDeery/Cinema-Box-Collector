@@ -7,7 +7,7 @@ iOS
 
 Internal Testing only
 
-To opt in for internal testing you must send you google play email address to cinemaboxcollector@gmail.com. This is required to add the address to the developer console in Google Play
+To opt in for internal testing you must send your google play email address to cinemaboxcollector@gmail.com. This is required to add the address to the developer console in Google Play
 
 Once you have been added, use the following link to gain access to the app
 https://play.google.com/apps/internaltest/4698817520185451222
